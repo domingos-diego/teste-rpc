@@ -136,4 +136,47 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 tvg-name="DW"  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/619apfg5DDL.png"group-title="Euro",DW
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
+--------------------------------------------------------ESPORTES-------------------------------------------------------------------
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="All Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",All Sports
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014595
+#EXTINF:-1 group-title="ESPORTES" tvg-id="BandSports.br" tvg-name="Band Sports" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/dRZ9CTG.png",BAND Sports
+http://206.1.95.2:8004/play/a01p
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ESPN
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5215
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN BRASIL
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn.br" tvg-name="ESPN EXTRA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://3.bp.blogspot.com/-TNq_WQvu70w/WVrJrd2fhWI/AAAAAAAA8KQ/J02VFD8ys-sKxshHsgbLuXVBJIH_IYlawCLcBGAs/s640/espnextra.png",ESPN EXTRA
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5214
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn2.br" tvg-name="ESPN 2 BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ESPN 2 BRASIL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5216
+#EXTINF:-1 group-title="ESPORTES" tvg-id="espn3.br" tvg-name="ESPN 3 BRASIL" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",ESPN 3 BRASIL
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465905
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/2888f73c-4ccf-4654-b1b4-5941a99aa867_m.jpg",FOX SPORTS FHD
+http://189.91.128.146:4444/udp/227.10.20.116:1234
+#EXTINF:-1 group-title="ESPORTES" tvg-id=".br" tvg-name="FOX SPORTS 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/b0af71c6-9667-4002-82bd-d901ab8a5380_m.jpg",FOX SPORTS 2 FHD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5224
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere1.br" tvg-name="PREMIERE 1" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396561
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere2.br" tvg-name="PREMIERE 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396562
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere3.br" tvg-name="PREMIERE 3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 3
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396564
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere4.br" tvg-name="PREMIERE 4" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 4
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396565
+#EXTINF:-1 group-title="ESPORTES" tvg-id="Premiere5.br" tvg-name="PREMIERE 5" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_premiere-2_m.png",PREMIERE 5
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/396566
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV.br" tvg-name="SPORTV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv_m.png",SPORTV FHD
+http://206.1.95.2:8004/play/a00f
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 2.br" tvg-name="SPORTV 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv2_m.png",SPORTV 2 FHD
+http://206.1.95.2:8004/play/a025
+#EXTINF:-1 group-title="ESPORTES" tvg-id="SporTV 3.br" tvg-name="SPORTV3" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_sportv3_m.png",SPORTV 3 FHD
+http://206.1.95.2:8004/play/a03w
+#EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports2.br" tvg-name="TNT 2 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 2 Brasil
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014601
+#EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports3.br" tvg-name="TNT 3 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 3 Brasil
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014602
+#EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports4.br" tvg-name="TNT 4 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 4 Brasil
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014603
+#EXTINF:-1 group-title="ESPORTES" tvg-id="TNTsports5.br" tvg-name="TNT 5 SPORTS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="",TNT Sports 5 Brasil HD
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014598
 
