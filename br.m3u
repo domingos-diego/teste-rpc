@@ -1,46 +1,271 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-
+#EXTINF:-1,A&E HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71762.ts
+#EXTINF:-1,A&E SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71763.ts
+#EXTINF:-1,AMC HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71770.ts
+#EXTINF:-1,AMC SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71771.ts
+#EXTINF:-1,Band Sports HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71803.ts
+#EXTINF:-1,Band Sports SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71804.ts
+#EXTINF:-1,Bloomberg SD
+#EXTINF:-1,Canal Sony HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71826.ts
+#EXTINF:-1,Canal Sony HD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90712.ts
+#EXTINF:-1,Canal Sony SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71827.ts
+#EXTINF:-1,Canal Sony SD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90711.ts
+#EXTINF:-1,Cartoon Network HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71831.ts
+#EXTINF:-1,Cartoon Network SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71832.ts
+#EXTINF:-1,Combate HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71845.ts
+#EXTINF:-1,Combate SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71846.ts
+#EXTINF:-1,Comedy Central HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71849.ts
+#EXTINF:-1,Comedy Central SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71850.ts
+#EXTINF:-1,Conmebol TV 1 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72979.ts
+#EXTINF:-1,Conmebol TV 1 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72980.ts
+#EXTINF:-1,Conmebol TV 2 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72983.ts
+#EXTINF:-1,Conmebol TV 2 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72984.ts
+#EXTINF:-1,Conmebol TV 3 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72987.ts
+#EXTINF:-1,Conmebol TV 3 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72988.ts
+#EXTINF:-1,Conmebol TV 4 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72991.ts
+#EXTINF:-1,Conmebol TV 4 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72992.ts
+#EXTINF:-1,Cultura HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71853.ts
+#EXTINF:-1,Cultura SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71854.ts
+#EXTINF:-1,Discovery Channel HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71865.ts
+#EXTINF:-1,Discovery Channel SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71866.ts
+#EXTINF:-1,Descoberta H&H SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71870.ts
+#EXTINF:-1,Discovery Kids SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71874.ts
+#EXTINF:-1,Discovery Science SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71878.ts
+#EXTINF:-1,Disney Channel SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71894.ts
+#EXTINF:-1,ESPN 2SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71923.ts
+#EXTINF:-1,ESPN 3 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71910.ts
+#EXTINF:-1,ESPN 4 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71961.ts
+#EXTINF:-1,Fox Sports 2 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71956.ts
+#EXTINF:-1,Futura SD
+http://acsc.cc:80/1Lucilim/1Luci2532/71965.ts
+#EXTINF:-1,Globo Brasilia SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131116.ts
+#EXTINF:-1,Globo Minas SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131209.ts
+#EXTINF:-1,Globo Nacional SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131145.ts
+#EXTINF:-1,Globo News HD
+http://acsc.cc:80/1Lucilim/1Luci2532/71999.ts
+#EXTINF:-1,Globo News SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131112.ts
+#EXTINF:-1,Globo RJ SD
 http://acsc.cc:80/1Lucilim/1Luci2532/131182.ts
-#EXTINF:-1,Globo RPC Cascavel FHD
-http://acsc.cc:80/1Lucilim/1Luci2532/133058.ts
-#EXTINF:-1,Globo RPC Cascavel HD
-http://acsc.cc:80/1Lucilim/1Luci2532/133059.ts
-#EXTINF:-1,Globo RPC Cascavel SD
-http://acsc.cc:80/1Lucilim/1Luci2532/133060.ts
-#EXTINF:-1,Globo RPC Londrina FHD
-http://acsc.cc:80/1Lucilim/1Luci2532/133061.ts
-#EXTINF:-1,Globo RPC Londrina HD
-http://acsc.cc:80/1Lucilim/1Luci2532/133062.ts
-#EXTINF:-1,Globo RPC Londrina SD
-http://acsc.cc:80/1Lucilim/1Luci2532/133063.ts
-#EXTINF:-1,Globo RPC Paranavai FHD
-http://acsc.cc:80/1Lucilim/1Luci2532/72028.ts
-#EXTINF:-1,Globo RPC Paranavai HD
-http://acsc.cc:80/1Lucilim/1Luci2532/131170.ts
-#EXTINF:-1,Globo RPC Paranavai SD
-http://acsc.cc:80/1Lucilim/1Luci2532/131197.ts
-#EXTINF:-1,Globo RPC TV Curitiba FHD
-http://acsc.cc:80/1Lucilim/1Luci2532/131199.ts
-#EXTINF:-1,Globo RPC TV Curitiba HD
-http://acsc.cc:80/1Lucilim/1Luci2532/72626.ts
-#EXTINF:-1,Globo RPC TV Curitiba SD
-http://acsc.cc:80/1Lucilim/1Luci2532/131127.ts
-#EXTINF:-1,Globo RPC TV Foz do Iguacu FHD
-http://acsc.cc:80/1Lucilim/1Luci2532/131149.ts
-#EXTINF:-1,Globo RPC TV Foz do Iguacu HD
-http://acsc.cc:80/1Lucilim/1Luci2532/72033.ts
-#EXTINF:-1,Globo RPC TV Foz do Iguacu SD
-http://acsc.cc:80/1Lucilim/1Luci2532/131206.ts
-#EXTINF:-1,Globo RPC TV Maringa FHD
-http://acsc.cc:80/1Lucilim/1Luci2532/131101.ts
-#EXTINF:-1,Globo RPC TV Maringa HD
-http://acsc.cc:80/1Lucilim/1Luci2532/96888.ts
-#EXTINF:-1,Globo RPC TV Maringa SD
-http://acsc.cc:80/1Lucilim/1Luci2532/131125.ts
-#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
-http://acsc.cc:80/1Lucilim/1Luci2532/131133.ts
 #EXTINF:-1,Globo RPC TV Ponta Grossa HD
 http://acsc.cc:80/1Lucilim/1Luci2532/72037.ts
 #EXTINF:-1,Globo RPC TV Ponta Grossa SD
 http://acsc.cc:80/1Lucilim/1Luci2532/131189.ts
+#EXTINF:-1,Globo SP HD
+http://acsc.cc:80/1Lucilim/1Luci2532/131212.ts
+#EXTINF:-1,Globo SP SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72042.ts
+#EXTINF:-1,GNT HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72104.ts
+#EXTINF:-1,GNT SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131136.ts
+#EXTINF:-1,HBO 2 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72112.ts
+#EXTINF:-1,HBO 2 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72113.ts
+#EXTINF:-1,HBO Family SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72117.ts
+#EXTINF:-1,HBO HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72120.ts
+#EXTINF:-1,HBO HD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90697.ts
+#EXTINF:-1,HBO Max 1 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/140510.ts
+#EXTINF:-1,HBO Max 2 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/140511.ts
+#EXTINF:-1,HBO Max 3 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/140512.ts
+#EXTINF:-1,HBO Max 4 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/140513.ts
+#EXTINF:-1,HBO Max 5 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/140514.ts
+#EXTINF:-1,HBO Max 6 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/140515.ts
+#EXTINF:-1,Megapix HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72169.ts
+#EXTINF:-1,Megapix HD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/131118.ts
+#EXTINF:-1,Megapix SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131204.ts
+#EXTINF:-1,Megapix SD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/131171.ts
+#EXTINF:-1,Nick Jr SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72204.ts
+#EXTINF:-1,Pai Eterno SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72215.ts
+#EXTINF:-1,Paramount Channel SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72220.ts
+#EXTINF:-1,Premiere 2 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72239.ts
+#EXTINF:-1,Premiere 2 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72240.ts
+#EXTINF:-1,Premiere 3 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72243.ts
+#EXTINF:-1,Premiere 3 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72244.ts
+#EXTINF:-1,Premiere 4 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72247.ts
+#EXTINF:-1,Premiere 4 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72248.ts
+#EXTINF:-1,Premiere 5 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72251.ts
+#EXTINF:-1,Premiere 5 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72252.ts
+#EXTINF:-1,Premiere 6 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72255.ts
+#EXTINF:-1,Premiere 6 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72256.ts
+#EXTINF:-1,Premiere 7 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72260.ts
+#EXTINF:-1,Premiere 8 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72261.ts
+#EXTINF:-1,Premiere Clubes HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72265.ts
+#EXTINF:-1,Premiere Clubes SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72266.ts
+#EXTINF:-1,PT: CANCAO NOVA
+http://acsc.cc:80/1Lucilim/1Luci2532/169503.ts
+#EXTINF:-1,PT: CARTOON NETWORK
+http://acsc.cc:80/1Lucilim/1Luci2532/169504.ts
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://acsc.cc:80/1Lucilim/1Luci2532/169514.ts
+#EXTINF:-1,PT: DISCOVERY CHANNEL HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169515.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://acsc.cc:80/1Lucilim/1Luci2532/169516.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://acsc.cc:80/1Lucilim/1Luci2532/169517.ts
+#EXTINF:-1,PT: FOX
+http://acsc.cc:80/1Lucilim/1Luci2532/169533.ts
+#EXTINF:-1,PT: GLOBO
+http://acsc.cc:80/1Lucilim/1Luci2532/169544.ts
+#EXTINF:-1,PT: GLOBO HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169545.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169589.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169590.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169591.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169592.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169593.ts
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169594.ts
+#EXTINF:-1,PT: SPORT TV 6 HD LOW
+http://acsc.cc:80/1Lucilim/1Luci2532/169595.ts
+#EXTINF:-1,PT: SPORT TV NBA
+http://acsc.cc:80/1Lucilim/1Luci2532/169596.ts
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169597.ts
+#EXTINF:-1,PT: TV RECORD
+http://acsc.cc:80/1Lucilim/1Luci2532/169611.ts
+#EXTINF:-1,PT: TV RECORD HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169612.ts
+#EXTINF:-1,PT: TVCINE ACTION
+http://acsc.cc:80/1Lucilim/1Luci2532/169613.ts
+#EXTINF:-1,PT: TVCINE ACTION HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169614.ts
+#EXTINF:-1,PT: TVCINE EDITION
+http://acsc.cc:80/1Lucilim/1Luci2532/169615.ts
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169616.ts
+#EXTINF:-1,PT: TVCINE EMOTION
+http://acsc.cc:80/1Lucilim/1Luci2532/169617.ts
+#EXTINF:-1,PT: TVCINE EMOTION HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169618.ts
+#EXTINF:-1,PT: TVCINE TOP
+http://acsc.cc:80/1Lucilim/1Luci2532/169619.ts
+#EXTINF:-1,PT: TVCINE TOP HD
+http://acsc.cc:80/1Lucilim/1Luci2532/169620.ts
+#EXTINF:-1,RecordTV SP SD
+http://acsc.cc:80/1Lucilim/1Luci2532/96522.ts
+#EXTINF:-1,Rede 21 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/104928.ts
+#EXTINF:-1,RedeTV SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72300.ts
+#EXTINF:-1,RedeTV! 4K FHDR
+http://acsc.cc:80/1Lucilim/1Luci2532/178532.ts
+#EXTINF:-1,SBT Rede Massa PR SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72306.ts
+#EXTINF:-1,SBT RJ SD
+http://acsc.cc:80/1Lucilim/1Luci2532/108683.ts
+#EXTINF:-1,Space HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72319.ts
+#EXTINF:-1,Space HD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90676.ts
+#EXTINF:-1,Space SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72320.ts
+#EXTINF:-1,Space SD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90675.ts
+#EXTINF:-1,SporTV 2 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72324.ts
+#EXTINF:-1,SporTV 3 SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131108.ts
+#EXTINF:-1,SporTV SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131132.ts
+#EXTINF:-1,TNT HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72378.ts
+#EXTINF:-1,TNT HD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90673.ts
+#EXTINF:-1,TNT SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72379.ts
+#EXTINF:-1,TNT SD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90672.ts
+#EXTINF:-1,TV Aparecida HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72396.ts
+#EXTINF:-1,TV Aparecida SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72397.ts
+#EXTINF:-1,TV Senado SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72416.ts
+#EXTINF:-1,Universal TV SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72422.ts
+#EXTINF:-1,Warner Channel HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72433.ts
+#EXTINF:-1,Warner Channel HD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90649.ts
+#EXTINF:-1,Warner Channel SD
+http://acsc.cc:80/1Lucilim/1Luci2532/72434.ts
+#EXTINF:-1,Warner Channel SD [LEG]
+http://acsc.cc:80/1Lucilim/1Luci2532/90648.ts
