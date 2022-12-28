@@ -1,0 +1,46 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+http://acsc.cc:80/1Lucilim/1Luci2532/131182.ts
+#EXTINF:-1,Globo RPC Cascavel FHD
+http://acsc.cc:80/1Lucilim/1Luci2532/133058.ts
+#EXTINF:-1,Globo RPC Cascavel HD
+http://acsc.cc:80/1Lucilim/1Luci2532/133059.ts
+#EXTINF:-1,Globo RPC Cascavel SD
+http://acsc.cc:80/1Lucilim/1Luci2532/133060.ts
+#EXTINF:-1,Globo RPC Londrina FHD
+http://acsc.cc:80/1Lucilim/1Luci2532/133061.ts
+#EXTINF:-1,Globo RPC Londrina HD
+http://acsc.cc:80/1Lucilim/1Luci2532/133062.ts
+#EXTINF:-1,Globo RPC Londrina SD
+http://acsc.cc:80/1Lucilim/1Luci2532/133063.ts
+#EXTINF:-1,Globo RPC Paranavai FHD
+http://acsc.cc:80/1Lucilim/1Luci2532/72028.ts
+#EXTINF:-1,Globo RPC Paranavai HD
+http://acsc.cc:80/1Lucilim/1Luci2532/131170.ts
+#EXTINF:-1,Globo RPC Paranavai SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131197.ts
+#EXTINF:-1,Globo RPC TV Curitiba FHD
+http://acsc.cc:80/1Lucilim/1Luci2532/131199.ts
+#EXTINF:-1,Globo RPC TV Curitiba HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72626.ts
+#EXTINF:-1,Globo RPC TV Curitiba SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131127.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu FHD
+http://acsc.cc:80/1Lucilim/1Luci2532/131149.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72033.ts
+#EXTINF:-1,Globo RPC TV Foz do Iguacu SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131206.ts
+#EXTINF:-1,Globo RPC TV Maringa FHD
+http://acsc.cc:80/1Lucilim/1Luci2532/131101.ts
+#EXTINF:-1,Globo RPC TV Maringa HD
+http://acsc.cc:80/1Lucilim/1Luci2532/96888.ts
+#EXTINF:-1,Globo RPC TV Maringa SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131125.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa FHD
+http://acsc.cc:80/1Lucilim/1Luci2532/131133.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa HD
+http://acsc.cc:80/1Lucilim/1Luci2532/72037.ts
+#EXTINF:-1,Globo RPC TV Ponta Grossa SD
+http://acsc.cc:80/1Lucilim/1Luci2532/131189.ts
