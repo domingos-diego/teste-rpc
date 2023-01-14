@@ -273,8 +273,8 @@ http://api.magiaiptv.com/live/800328/755275/p2_dazn_264
 http://api.magiaiptv.com/live/800328/755275/p2_dazn2hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" , DAZN HDˣ
 http://api.magiaiptv.com/live/800328/755275/p3_dazn3hd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" , ELEVEN SPORTS¹ HDˣ
-http://api.magiaiptv.com/live/800328/755275/m3_CJ6dzO0XwgqqQb5NQPhMHQit_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" , PARANAENSE
+http://acsc.cc:80/1Lucilim/1Luci2532/111408.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" , ELEVEN SPORTS² HDˣ
 http://api.magiaiptv.com/live/800328/755275/m3_CJdtrgZmbpPiPvkOnB4tGEDQ_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" , ELEVEN SPORTS³ HDˣ
