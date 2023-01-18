@@ -276,7 +276,8 @@ http://api.magiaiptv.com/live/800328/755275/p3_dazn3hd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" , PARANAENSE
 http://lmtv.me/1671982897jas/195093/91351
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" ,  PARANAENSE2
-http://dns-onplaytv.fun:80/live/Robinho/210285/23958.m3u8|User-Agent=kodi/16.1 (Windows NT 10.0; WOW64) App_Bitness/32 Version/16.1-Git:20160424-c327c53
+plugin://plugin.video.f4mTester/?name=[COLOR white][B]DESDE[/B][/COLOR] [COLOR red][B]1909[/B][/COLOR];streamtype=HLSRETRY&maxbitrate=0&buffer=1&url=http://dns-
+onplaytv.fun:80/live/Robinho/210285/24114.m3u8|User-Agent=kodi/16.1 (Windows NT 10.0; WOW64) App_Bitness/32 Version/16.1-Git:20160424-c327c53
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" , ELEVEN SPORTS³ HDˣ
 http://api.magiaiptv.com/live/800328/755275/m3_CJXDO6a9eUzXghQOhGRlt29P_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bit.ly/Logo-tv" parent-code= "" group-title="CANAIS | ESPORTES II" , ELEVEN SPORTS⁴ HDˣ
