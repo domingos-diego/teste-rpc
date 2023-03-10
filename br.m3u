@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@domingos-diego 
-kriussouza
-/
-iptvhtv
-Public
-Fork your own copy of kriussouza/iptvhtv
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-iptvhtv/Main.m3u
-@kriussouza
-kriussouza Update
-…
-Latest commit dea4c59 on Jan 28
- History
- 1 contributor
-501 lines (499 sloc)  51.5 KB
-
 #EXTM3U
 
 #EXTINF:-1 tvg-name="UFC FIGHT PASS" tvg-logo="http://4f.rs:80/images/76a92147c70b5ef1b3c7385b011e5436.png" group-title="CANAIS | ESPORTES ESPECIAIS",UFC FIGHT PASS
