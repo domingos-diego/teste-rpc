@@ -1,417 +1,1257 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="ANIMES",TOONCAST
-http://172.93.110.132:14218/
-#EXTINF:-1 tvg-logo="" group-title="ANIMES",TOONCAST
-http://meumd.com:80/CharleiEvangelista/qe8WCOCT/127897
-#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
-http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/92
-#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/viva/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",VIVA
-http://199.127.60.83:16884/
-#EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CNN
-http://172.93.110.132:14235/
-#EXTINF:-1 tvg-logo="" group-title="",CNN
-http://172.93.110.132:14236/
-#EXTINF:-1 tvg-logo="" group-title="",NNk
-http://172.93.110.132:14243/
-#EXTINF:-1 tvg-logo="" group-title="",NNk
-http://172.93.110.132:14244/
-#EXTINF:-1 tvg-logo="" group-title="",GRAVAR NOVO
-http://172.93.110.132:14245/
-#EXTINF:-1 tvg-logo="" group-title="",GRAVAR NOVO
-http://boxtv.uniredes.com.br:80/eduardos/eduardos/55
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
-http://187.85.237.3:8220/ipvt_004
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
-http://172.93.110.132:14237/
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
-http://191.37.250.169:8801/live/NSC/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO RJ
-http://geo-aws.tvcast.xyz:80/hls/s:51.15.52.211/globorj_bc15c774_0dd3e2915b8b62e4171b7fe29429b92c906a8523/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
-http://172.93.110.132:14100/
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
-https://live-bhe-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjY3NTUiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYmhlLTA1LnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTY3MTk4ODAxMywiaWF0IjoxNjcxOTAxNjEzLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvcGVuX3N0YXR1cyI6IkYiLCJvd25lciI6ImY0M2I3ZTBhLTkyYzMtNGJiOS04NzdjLTgwNWEwNDkyZmJjZCIsInBhdGgiOiIvbnUvZihiTWluPTIwMDAsaT0yKS9nbG9vYjI0aGEvcGxheWxpc3QubTN1OCIsInVzZXJTZXNzaW9uS2V5IjoiYTRkNTVjODQtNDVlNy0xODFhLWJlNzQtOTk
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w643317548_b216000_sleng.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP HD
-http://geo-aws.tvcast.xyz:80/hls/s:51.158.161.235/globosphd_3a69aa1b_49d724d65b7200293bb9d093853fc3afb6597d1d/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO PR
-http://170.82.200.35:80/globo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
-http://187.85.237.3:8220/ipvt_001
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO FHD
-http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO PREMIUM
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/88266
-#EXTINF:-1 tvg-logo="" group-title="",SBT AO VIVO
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1732543709.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-logo="" group-title="",SBT MT
-http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SBT
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w1983631246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SBT
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
-http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1640416547
-#EXTINF:-1 tvg-logo="" group-title="", GRAVAR HD
-http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/record_3554dce5_75ff03f7f716414ce95b1515d7eb9ef427e01ba7/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", GRAVAR HD
-http://172.93.110.132:14154/
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/record/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
-http://172.93.110.132:14166/
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", REDE BRASIL
-http://172.93.110.132:14179/
-#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", REDE TV
-http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.68/redetv_45cbe19f_0432665dd34a3d4cf8406c800755b89c4c18afef/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TV BRASIL
-http://pfsv.io:80/07720253/51853/298
-#EXTINF:-1 tvg-logo="" group-title="",AMERICA TERROR
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AWC CANAL
-https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BAND
-http://172.93.110.132:14240/
-#EXTINF:-1 tvg-logo="" group-title="",BAND
-http://lmtv.me:80//live/1667663319jen/162145/89818.ts
-#EXTINF:-1 tvg-logo="" group-title="",BAND SP
-http://172.93.110.132:14151/
-#EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS
-http://lmtv.me:80//live/1667663319jen/162145/89829.ts
-#EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS
-http://168.205.87.198:8555/live/aleixo/123456/176.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
-http://172.93.110.132:14230/
-#EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
-http://lmtv.me:80//live/1667663319jen/162145/89821.ts
-#EXTINF:-1 tvg-logo="" group-title="",BAND SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",FOODNETWORK
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/foodnetwork/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",WOOHOO
-http://172.93.110.132:14225/
-#EXTINF:-1 tvg-logo="" group-title="",WOOHOO
-http://172.93.110.132:14226/
-#EXTINF:-1 tvg-logo="" group-title="",OFF
-http://cdn.tvwebplay.top:80/maiky/maiky/260
-#EXTINF:-1 tvg-logo="" group-title="",OFF
-http://cdn.tvwebplay.top:80/maiky/maiky/259
-#EXTINF:-1 tvg-logo="" group-title="",OFF
-http://geo-aws.tvcast.xyz:80/hls/s:51.15.41.121/canaloff_12f0de3d_374d7bab20831f9694372f6150180e4f89e2a3b1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",HGTV
-http://cdn.tvwebplay.top:80/maiky/maiky/234
-#EXTINF:-1 tvg-logo="" group-title="",HGTV
-http://ms5.ddns.me:8805/live/HGTV/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GNT
-http://cdn.tvwebplay.top:80/maiky/maiky/207
-#EXTINF:-1 tvg-logo="" group-title="",OFF HD
-http://geo-aws.tvcast.xyz:80/hls/s:51.15.104.60/canaloff_12f0de3d_9b721a68b6b513f5e901383a0628d6227c230aaa/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CURTA
-http://lmtv.me:80//live/1667663319jen/162145/89906.ts
-#EXTINF:-1 tvg-logo="" group-title="",CURTA
-http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 tvg-logo="" group-title="",TRUTV tv no Brasil
-http://pfsv.io:80/07720253/51853/289
-#EXTINF:-1 tvg-logo="" group-title="",TRUTV tv no Brasil
-http://pfsv.io:80/07720253/51853/350
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", ANIMAL PLANET
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/animalplanet/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", ANIMAL PLANET
-http://loadbl2.online:80/Angelo82838384838/Agel83478837478/17580
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIO", ANIMAL PLANET
-http://189.85.164.198:2086/live/ANIMALPLANET/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", ANIMAL PLANET
-http://199.127.60.83:16192/
-#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
-http://hidra.live:80/msqbuynu/C55qy6Ihb6/302706
-#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
-http://7go.xyz:8080/556799391192/xxxsaw25106/183640
-#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
-http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
-http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
-http://7go.xyz:8080/556799391192/xxxsaw25106/183639
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", NETGEO GEOGRAPHIC
-http://7go.xyz:8080/556799391192/xxxsaw25106/18944
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", NETGEO WILD
-http://7go.xyz:8080/556799391192/xxxsaw25106/22589
-#EXTINF:-1 tvg-logo="" group-title="",NETGEO WILD HD
-http://7go.xyz:8080/556799391192/xxxsaw25106/18754
-#EXTINF:-1 tvg-logo="" group-title="", NATUREZA AMOR
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=976-29b-3000 86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA
-http://45.58.126.146:14252/
- group-title="DOCUMENTÁRIO", DISCOVERY
-http://loadbl2.online:80/Annabele231059/Angelo095187/17641
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA
-http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/12
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA
-http://lmtv.me:80//live/1667663319jen/162145/89914.ts
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA
-http://lmtv.me:80//live/1667663319jen/162145/89915.ts
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16705
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA
-http://hubby.fun:80/MixTv2022/i3hvtXbkz6/23009
-#EXTINF:-1 tvg-logo="" group-title="",SPORT 3
-http://cdn.tvwebplay.top:80/maiky/maiky/154
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA
-http://pfsv.io:80/07720253/51853/166
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
-http://lmtv.me:80//live/1667663319jen/162145/89927.ts
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
-http://172.93.110.132:14260/
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
-http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a26d487131ec67c57270d2f32e07.1649112530008.94a26d48cf7131ef
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
-http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a26d487131ec67c57270d2f32e07.1649112530008.94a26d48cf7131ef
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO",Smith channel
-http://172.93.110.132:14170/
-#EXTINF:-1 tvg-logo="" group-title="",A&E
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/ae/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",A&E
-http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",A&E
-http://45.58.126.146:14293/A&E
-#EXTINF:-1 tvg-logo="" group-title="",A&E
-http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", DISCOVERY ID
-http://172.93.110.132:14257/
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", DISCOVERY ID
-http://45.58.126.146:14258/
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO MAX
-http://lmtv.me:80//live/1667663319jen/162145/89934.ts
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO z
-http://suatela-server.b-cdn.net/live/discoveryturbo/chunks.m3u8?token=cFjUTQ5drESTatZ5koHeThiZOyx89M1X-xa-8VrfIPo&expires=1649861728
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16711
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY WOLD
-http://143.244.35.146:80/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=2cbdd399e3a155d29a948c106e4ff67cd4b4287ec3a4c1971e66039abe3f164b.1649117891528.f103abdef2ebdef2ebdef67343
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY WOLD
-http://50.7.34.155:2201/BR/Discovery_World_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER
-http://lmtv.me:80//live/1667663319jen/162145/89930.ts
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER
-http://lmtv.me:80//live/1667663319jen/162145/89931.ts
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA H&H
-http://45.58.126.146:14255/
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA H&H
-http://lmtv.me:80//live/1667663319jen/162145/89919.ts
-#EXTINF:-1 tvg-logo="" group-title="",DESCOBERTA H&H
-http://pfsv.io:80/live/carlinhos01/carlinhos01/198.ts
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA HD
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/history/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA
-HD
-http://srv.newtop.tech:80/555666/555666/2162588
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA HD MAX
-http://187.85.237.32:8825/ipvt_007
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA
-http://45.58.126.146:14280
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA HD
-http://190.20.228.124:8000/play/a03p/92853600.m3u8
-http://cdn.tvwebplay.top:80/live/teste123/teste123/018.ts
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
-http://45.58.126.146:14285
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
-http://cdn.connectbr.com.br/h2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
-http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TLC
-http://45.58.126.146:14270
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTARIO", TLC
-http://45.58.126.146:14270/
-#EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/222
-#EXTINF:-1 tvg-logo="" group-title="",COMBATE HD http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://178.162.228.207:2095/solucao111111xXx52/xplus1111XX/1
-#EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16703
-group-title="",COMBATE
-http://lmtv.me:80//live/1667663319jen/162145/89878.ts
-#EXTINF:-1 tvg-logo="" group-title="",ESPORTS 2
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16716
-#EXTINF:-1 tvg-logo="" group-title="",ESPORTS 3
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16725
-#EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL
-http://45.58.126.146:14329/
-#EXTINF:-1 tvg-logo="" group-title="",STAR+ FHD
-http://cdn.tvwebplay.top:80/maiky/maiky/631
-#EXTINF:-1 tvg-logo="" group-title="FILMES", STAR CHANNEL
-http://pfsv.io:80/07720253/51853/292
-#EXTINF:-1 tvg-logo="" group-title="",STAR LIFE
-http://212.102.60.39:2200/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=RED_-G6wOXLDGzyYlSWh-N90Mw%3D%3D%2C1651488217.8617422156
-#EXTINF:-1 tvg-logo="" group-title="FILMES", STAR CHANNEL HD
-http://187.85.237.3:8220/ipvt_002
-#EXTINF:-1 tvg-logo="" group-title="",WARNER CHANNEL HD
-http://pfsv.io:80/07720253/51853/297
-#EXTINF:-1 tvg-logo="" group-title="FILMES", WARNER CHANNEL HD
-http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX
-http://45.58.126.146:14317/megapix
-#EXTINF:-1 tvg-logo="" group-title="",SESSÃO CINE
-http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1761453494.m3u8?ROGERIOTORRES
-#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX
-http://7go.xyz:8080/556799391192/xxxsaw25106/22585
-#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX
-http://51.83.238.223:16823/
-#EXTINF:-1 tvg-logo="" group-title="",ESPAÇO
-http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/70
-#EXTINF:-1 tvg-logo="" group-title="",ESPAÇO
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16750
-#EXTINF:-1 tvg-logo="" group-title="FILMES", ESPAÇO
-http://51.159.54.153:14408/
-#EXTINF:-1 tvg-logo="" group-title="",ARTE 1
-http://lmtv.me:80//live/1667663319jen/162145/89810.ts
-#EXTINF:-1 tvg-logo="" group-title="",ARTE 1
-http://187.85.237.34:8825/ipvt_003
-#EXTINF:-1 tvg-logo="" group-title="",LIFETIME
-http://cdn.tvwebplay.top:80/maiky/maiky/244
-#EXTINF:-1 tvg-logo="" group-title="",LIFETIME
-https://cdn.connectbr.com.br/lifetime/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",LIFETIME HD
-http://187.85.237.32:8825/ipvt_001
-#EXTINF:-1 tvg-logo="" group-title="",LIFETIME
-http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AXN HD
-http://187.85.237.8:8825/ipvt_005
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/axn/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-http://7go.xyz:8080/556799391192/xxxsaw25106/18724
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-http://lmtv.me:80//live/1667663319jen/162145/89813.ts
-#EXTINF:-1 tvg-logo="" group-title="",AXN
-http://7go.xyz:8080/556799391192/xxxsaw25106/18724
-#EXTINF:-1 tvg-logo="" group-title="",FX
-http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/3
-#EXTINF:-1 tvg-logo="" group-title="",FX
-http://ms2.ddns.me:8802/live/FXHD/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TNT
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/tnt/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TNT SPORT
-https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SÉRIE TNT
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/tntseries/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",SÉRIE TNT
-http://cdn.connectbr.com.br:80/TNTSeries/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PARAMONT+
-http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/60072798dcf437000755b4f3/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=921223-a4c4 814d-c9455e72eab8&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-#EXTINF:-1 tvg-logo="" group-title="",PARAMONT
-http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/60
-#EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD
-http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/120
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
-http://172.93.110.132:14361/
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
-http://190.15.32.30:80/116/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
-http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA
-http://cdn.tvwebplay.top:80/live/teste123/teste123/422.ts
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoca/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CULTO DO TELECINE
-http://172.93.110.132:14358/
-#EXTINF:-1 tvg-logo="" group-title="",CULTO DO TELECINE
-http://187.85.237.34:8825/ipvt_001
-#EXTINF:-1 tvg-logo="" group-title="",AÇÃO TELECINE
-http://cdn.tvwebplay.top:80/live/teste123/teste123/420.ts
-#EXTINF:-1 tvg-logo="" group-title="",AÇÃO TELECINE
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecineaction/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
-http://cdn.tvwebplay.top:80/live/teste123/teste123/423.ts
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM 4k
-http://rctv.tech:80/00005794/MF159357C/5272
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepremium/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
-http://172.93.110.132:14370/
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE
-http://187.85.237.34:8825/ipvt_002
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE EMOTION
-http://valhalla.ottc.pro:80/Pitho_IPTV/5VSNFSITOM/4519
-#EXTINF:-1 tvg-logo="" group-title="",TVCINE TOP
-http://valhalla.ottc.pro:80/Pitho_IPTV/5VSNFSITOM/4521
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
-http://cdn.tvwebplay.top:80/live/teste123/teste123/424.ts
-#EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
-http://187.85.237.3:8220/ipvt_005
-#EXTINF:-1 tvg-logo="" group-title="",CULTO DO TELECINE
-http://190.15.32.30:80/118/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CULTO DO TELECINE
-http://187.85.237.34:8825/ipvt_001
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-http://172.93.110.132:14373/
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-http://7go.xyz:8080/556799391192/xxxsaw25106/22681
-#EXTINF:-1 tvg-logo="" group-title="",HBO 2
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo2/play1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",HBO 2
-http://7go.xyz:8080/556799391192/xxxsaw25106/18834
-#EXTINF:-1 tvg-logo="" group-title="",HBO POP
-http://7go.xyz:8080/556799391192/xxxsaw25106/42930
-#EXTINF:-1 tvg-logo="" group-title="",HBO XTREME
-http://7go.xyz:8080/556799391192/xxxsaw25106/18745
-#EXTINF:-1 tvg-logo="" group-title="",HBO XTREME
-http://7go.xyz:8080/556799391192/xxxsaw25106/22555
-#EXTINF:-1 tvg-logo="" group-title="",HBO MUNDI
-http://7go.xyz:8080/556799391192/xxxsaw25106/18740
-#EXTINF:-1 tvg-logo="" group-title="",HBO MUNDI
-http://7go.xyz:8080/556799391192/xxxsaw25106/22551
-#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS
-http://51.222.44.30:14081/
-#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS
-http://cdn.tvwebplay.top:80/maiky/maiky/211
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-ASSINATURA
-http://7go.xyz:8080/556799391192/xxxsaw25106/22358
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-ASSINATURA
-http://7go.xyz:8080/556799391192/xxxsaw25106/22685
-#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY
-http://7go.xyz:8080/556799391192/xxxsaw25106/22353
-#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY
-http://7go.xyz:8080/556799391192/xxxsaw25106/22549
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-http://cdn2.connectbr.com.br:80/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",HBO MAX 1
-http://pfsv.io:80/live/carlinhos01/carlinhos01/102003.ts
-#EXTINF:-1 tvg-logo="" group-title="",HBO POP
-http://7go.xyz:8080/556799391192/xxxsaw25106/18742
-#EXTINF:-1 tvg-logo="" group-title="",HBO PLUS
-http://7go.xyz:8080/556799391192/xxxsaw25106/22355
-#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY
-http://50.7.34.155:2201/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-http://190.171.101.36:80/HBO/tracks-a2/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",HBO FAMILY
-http://23.237.190.122:25461/evasquez/ev2021fwk/182?token=HhdaAEBZEQgUAFsIVlMBAwBSBwVXV1AFBVJWAwADB15RDQYFBgAACldEThtDEEAHUQ9uXgURDwUOA00WRUADFDpcVkMJEwABBFFVARJIEBZZD1QVWwIDAA8AWQMCBlZKR0VbBRELEQoAU1IbHEZXGkQHQ1kAX2pQU0cIV1URXAgQWV5NEV5dbVIDD1heABBYElITG0NaRkQUCw9BXF9KRAdcRhNSRVYQDERQDgFVEE4SAV5CD0dHTRQLQ3ZiEUpEAE1GBF1CWl1YRFgbRBcQThILQmgTVkZARFQAWVVBRFxHBRBNEVxSSmkFDVdeAVEWWQ1fREMJFwYUHUNZX10PEgpHbRFaVREIFFRaCwZGTw==
-#EXTINF:-1 tvg-logo="" group-title="",HBO
-http://200.4.96.59:8003/play/a023/32144039.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CINEMAX  
-http://loadbl2.online:80/Annabele231059/Angelo095187/17623
-#EXTINF:-1 tvg-logo=""
-group-title="",CINEMAX
-http://sukitam.bccdn.xyz:80/gd3b6coi/7qaerf1u/9
-#EXTINF:-1 tvg-logo="" group-title="",CINEMAX
-http://7go.xyz:8080/556799391192/xxxsaw25106/18726
-#EXTINF:-1 tvg-logo="" group-title="",CINEMAX HD
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16702
-#EXTINF:-1 tvg-logo="" group-title="",SONY
-http://7go.xyz:8080/556799391192/xxxsaw25106/22388
-#EXTINF:-1 tvg-logo="" group-title="",SONY
-http://7go.xyz:8080/556799391192/xxxsaw25106/22610
-#EXTINF:-1 tvg-logo="" group-title="",SONY
-http://187.85.237.5:8222/ipvt_004
-#EXTINF:-1 tvg-logo="" group-title="",SYFY
-http://cdn.tvwebplay.top:80/live/teste123/teste123/314.ts
+#EXTINF:-1,A&E FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263017
+#EXTINF:-1,A&E HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263016
+#EXTINF:-1,A&E SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263015
+#EXTINF:-1,Agro+ FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263148
+#EXTINF:-1,Agro+ HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263147
+#EXTINF:-1,Agro+ SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263146
+#EXTINF:-1,AMC FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263020
+#EXTINF:-1,AMC HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263019
+#EXTINF:-1,AMC SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263018
+#EXTINF:-1,Animal Planet FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262964
+#EXTINF:-1,Animal Planet HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262963
+#EXTINF:-1,Animal Planet SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262962
+#EXTINF:-1,Arte 1 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263023
+#EXTINF:-1,Arte 1 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263022
+#EXTINF:-1,Arte 1 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263021
+#EXTINF:-1,AXN FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263026
+#EXTINF:-1,AXN HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263025
+#EXTINF:-1,AXN SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263024
+#EXTINF:-1,Baby TV FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263430
+#EXTINF:-1,Baby TV HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263429
+#EXTINF:-1,Baby TV SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263428
+#EXTINF:-1,Band ES HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263149
+#EXTINF:-1,Band News FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263120
+#EXTINF:-1,Band News HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263119
+#EXTINF:-1,Band News SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263118
+#EXTINF:-1,Band PR Maringa HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263150
+#EXTINF:-1,Band RJ HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263151
+#EXTINF:-1,Band SP FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263154
+#EXTINF:-1,Band SP HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263153
+#EXTINF:-1,Band SP SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263152
+#EXTINF:-1,BandSports FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263653
+#EXTINF:-1,BandSports HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263652
+#EXTINF:-1,BandSports SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263651
+#EXTINF:-1,BBB23 - CAM 01
+http://axr.life:80/edimilsonj/tvsmartnew/1262950
+#EXTINF:-1,BBB23 - CAM 02
+http://axr.life:80/edimilsonj/tvsmartnew/1262951
+#EXTINF:-1,BBB23 - CAM 03
+http://axr.life:80/edimilsonj/tvsmartnew/1262952
+#EXTINF:-1,BBB23 - CAM 04
+http://axr.life:80/edimilsonj/tvsmartnew/1262953
+#EXTINF:-1,BBB23 - CAM 05
+http://axr.life:80/edimilsonj/tvsmartnew/1262954
+#EXTINF:-1,BBB23 - CAM 06
+http://axr.life:80/edimilsonj/tvsmartnew/1262955
+#EXTINF:-1,BBB23 - CAM 07
+http://axr.life:80/edimilsonj/tvsmartnew/1262956
+#EXTINF:-1,BBB23 - CAM 08
+http://axr.life:80/edimilsonj/tvsmartnew/1262957
+#EXTINF:-1,BBB23 - CAM 09
+http://axr.life:80/edimilsonj/tvsmartnew/1262958
+#EXTINF:-1,BBB23 - CAM 10
+http://axr.life:80/edimilsonj/tvsmartnew/1262959
+#EXTINF:-1,BBB23 - CAM 11
+http://axr.life:80/edimilsonj/tvsmartnew/1262960
+#EXTINF:-1,BBB23 - Mosaico
+http://axr.life:80/edimilsonj/tvsmartnew/1262961
+#EXTINF:-1,BIS FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263351
+#EXTINF:-1,BIS HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263350
+#EXTINF:-1,BIS SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263349
+#EXTINF:-1,Canal Brasil FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263029
+#EXTINF:-1,Canal Brasil HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263028
+#EXTINF:-1,Canal Brasil SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263027
+#EXTINF:-1,Canal do Boi FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263157
+#EXTINF:-1,Canal do Boi HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263156
+#EXTINF:-1,Canal do Boi SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263155
+#EXTINF:-1,Canal Empreender FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263370
+#EXTINF:-1,Canal Empreender HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263369
+#EXTINF:-1,Canal Empreender SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263368
+#EXTINF:-1,Canal Rural
+http://axr.life:80/edimilsonj/tvsmartnew/1263158
+#EXTINF:-1,Canal Sony FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263032
+#EXTINF:-1,Canal Sony HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263031
+#EXTINF:-1,Canal Sony SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263030
+#EXTINF:-1,Canção Nova HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263134
+#EXTINF:-1,Cartoon Network FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263433
+#EXTINF:-1,Cartoon Network HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263432
+#EXTINF:-1,Cartoon Network SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263431
+#EXTINF:-1,Cartoonito FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263436
+#EXTINF:-1,Cartoonito HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263435
+#EXTINF:-1,Cartoonito SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263434
+#EXTINF:-1,Cine Canal FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263035
+#EXTINF:-1,Cine Canal HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263034
+#EXTINF:-1,Cine Canal SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263033
+#EXTINF:-1,Cine Comédia
+http://axr.life:80/edimilsonj/tvsmartnew/393030
+#EXTINF:-1,Cine Drama
+http://axr.life:80/edimilsonj/tvsmartnew/393031
+#EXTINF:-1,Cine Romance
+http://axr.life:80/edimilsonj/tvsmartnew/393032
+#EXTINF:-1,Cine Sucessos
+http://axr.life:80/edimilsonj/tvsmartnew/393028
+#EXTINF:-1,Cinemax FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263038
+#EXTINF:-1,Cinemax HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263037
+#EXTINF:-1,Cinemax SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263036
+#EXTINF:-1,Classique TV
+http://axr.life:80/edimilsonj/tvsmartnew/1263039
+#EXTINF:-1,CNN - Brasil FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263123
+#EXTINF:-1,CNN - Brasil HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263122
+#EXTINF:-1,CNN - Brasil SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263121
+#EXTINF:-1,CNT SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263159
+#EXTINF:-1,Combate FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263656
+#EXTINF:-1,Combate HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263655
+#EXTINF:-1,Combate SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263654
+#EXTINF:-1,Comedy Central FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263373
+#EXTINF:-1,Comedy Central HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263372
+#EXTINF:-1,Comedy Central SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263371
+#EXTINF:-1,CUCKOLD HD
+http://axr.life:80/edimilsonj/tvsmartnew/368833
+#EXTINF:-1,Curta! FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263376
+#EXTINF:-1,Curta! HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263375
+#EXTINF:-1,Curta! SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263374
+#EXTINF:-1,Discovery Channel FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262967
+#EXTINF:-1,Discovery Channel HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262966
+#EXTINF:-1,Discovery Channel SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262965
+#EXTINF:-1,Discovery H&H FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262970
+#EXTINF:-1,Discovery H&H HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262969
+#EXTINF:-1,Discovery H&H SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262968
+#EXTINF:-1,Discovery Kids FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263439
+#EXTINF:-1,Discovery Kids HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263438
+#EXTINF:-1,Discovery Kids SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263437
+#EXTINF:-1,Discovery Science FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262973
+#EXTINF:-1,Discovery Science HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262972
+#EXTINF:-1,Discovery Science SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262971
+#EXTINF:-1,Discovery Theater FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262976
+#EXTINF:-1,Discovery Theater HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262975
+#EXTINF:-1,Discovery Theater SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262974
+#EXTINF:-1,Discovery Turbo FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262979
+#EXTINF:-1,Discovery Turbo HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262978
+#EXTINF:-1,Discovery Turbo SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262977
+#EXTINF:-1,Discovery World FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262982
+#EXTINF:-1,Discovery World HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262981
+#EXTINF:-1,Discovery World SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262980
+#EXTINF:-1,Disney Channel FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263442
+#EXTINF:-1,Disney Channel HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263441
+#EXTINF:-1,Disney Channel SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263440
+#EXTINF:-1,E! FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263379
+#EXTINF:-1,E! HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263378
+#EXTINF:-1,E! SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263377
+#EXTINF:-1,ESPN 2 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263662
+#EXTINF:-1,ESPN 2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263661
+#EXTINF:-1,ESPN 2 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263660
+#EXTINF:-1,ESPN 3 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263665
+#EXTINF:-1,ESPN 3 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263664
+#EXTINF:-1,ESPN 3 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263663
+#EXTINF:-1,ESPN 4 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263668
+#EXTINF:-1,ESPN 4 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263667
+#EXTINF:-1,ESPN 4 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263666
+#EXTINF:-1,ESPN Extra FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263671
+#EXTINF:-1,ESPN Extra HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263670
+#EXTINF:-1,ESPN Extra SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263669
+#EXTINF:-1,ESPN FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263659
+#EXTINF:-1,ESPN HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263658
+#EXTINF:-1,ESPN SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263657
+#EXTINF:-1,Fashion TV FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263382
+#EXTINF:-1,Fashion TV HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263381
+#EXTINF:-1,Fashion TV SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263380
+#EXTINF:-1,FETISH HD
+http://axr.life:80/edimilsonj/tvsmartnew/368834
+#EXTINF:-1,Filmes Ação
+http://axr.life:80/edimilsonj/tvsmartnew/393029
+#EXTINF:-1,Filmes Suspense
+http://axr.life:80/edimilsonj/tvsmartnew/393036
+#EXTINF:-1,Fish TV FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262985
+#EXTINF:-1,Fish TV HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262984
+#EXTINF:-1,Fish TV SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262983
+#EXTINF:-1,FLUXUSLUST HD
+http://axr.life:80/edimilsonj/tvsmartnew/368835
+#EXTINF:-1,Food Network FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263385
+#EXTINF:-1,Food Network HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263384
+#EXTINF:-1,Food Network SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263383
+#EXTINF:-1,Fox Sports 2 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263675
+#EXTINF:-1,Fox Sports 2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263674
+#EXTINF:-1,Fox Sports 2 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263673
+#EXTINF:-1,Futura FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263388
+#EXTINF:-1,Futura HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263387
+#EXTINF:-1,Futura SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263386
+#EXTINF:-1,FX FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263042
+#EXTINF:-1,FX HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263041
+#EXTINF:-1,FX SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263040
+#EXTINF:-1,Globo AC Rede Amazônica Rio Branco FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263162
+#EXTINF:-1,Globo AC Rede Amazônica Rio Branco HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263161
+#EXTINF:-1,Globo AC Rede Amazônica Rio Branco SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263160
+#EXTINF:-1,Globo AL TV Gazeta FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263165
+#EXTINF:-1,Globo AL TV Gazeta HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263164
+#EXTINF:-1,Globo AL TV Gazeta SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263163
+#EXTINF:-1,Globo AM TV Amazônia FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263168
+#EXTINF:-1,Globo AM TV Amazônia HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263167
+#EXTINF:-1,Globo AM TV Amazônia SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263166
+#EXTINF:-1,Globo BA Rede Bahia FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263171
+#EXTINF:-1,Globo BA Rede Bahia HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263170
+#EXTINF:-1,Globo BA Rede Bahia SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263169
+#EXTINF:-1,Globo CE TV Verdes Mares FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263174
+#EXTINF:-1,Globo CE TV Verdes Mares HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263173
+#EXTINF:-1,Globo CE TV Verdes Mares SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263172
+#EXTINF:-1,Globo DF Brasilia FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263177
+#EXTINF:-1,Globo DF Brasilia HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263176
+#EXTINF:-1,Globo DF Brasilia SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263175
+#EXTINF:-1,Globo ES TV Gazeta Vitoria FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263180
+#EXTINF:-1,Globo ES TV Gazeta Vitoria HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263179
+#EXTINF:-1,Globo ES TV Gazeta Vitoria SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263178
+#EXTINF:-1,Globo GO TV Anhanguera FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263183
+#EXTINF:-1,Globo GO TV Anhanguera HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263182
+#EXTINF:-1,Globo GO TV Anhanguera SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263181
+#EXTINF:-1,Globo MA TV Mirante Sao Luis FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263186
+#EXTINF:-1,Globo MA TV Mirante Sao Luis HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263185
+#EXTINF:-1,Globo MA TV Mirante Sao Luis SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263184
+#EXTINF:-1,Globo MG Belo Horizonte FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263189
+#EXTINF:-1,Globo MG Belo Horizonte HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263188
+#EXTINF:-1,Globo MG Belo Horizonte SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263187
+#EXTINF:-1,Globo MG EPTV Sul de Minas FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263192
+#EXTINF:-1,Globo MG EPTV Sul de Minas HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263191
+#EXTINF:-1,Globo MG EPTV Sul de Minas SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263190
+#EXTINF:-1,Globo MG Inter TV dos Vales FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263195
+#EXTINF:-1,Globo MG Inter TV dos Vales HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263194
+#EXTINF:-1,Globo MG Inter TV dos Vales SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263193
+#EXTINF:-1,Globo MG TV Integracao Juiz de Fora FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263198
+#EXTINF:-1,Globo MG TV Integracao Juiz de Fora HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263197
+#EXTINF:-1,Globo MG TV Integracao Juiz de Fora SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263196
+#EXTINF:-1,Globo MS TV Morena FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263201
+#EXTINF:-1,Globo MS TV Morena HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263200
+#EXTINF:-1,Globo MS TV Morena SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263199
+#EXTINF:-1,Globo MT TV Centro America FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263204
+#EXTINF:-1,Globo MT TV Centro America HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263203
+#EXTINF:-1,Globo MT TV Centro América SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263202
+#EXTINF:-1,Globo NE Nordeste FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263207
+#EXTINF:-1,Globo NE Nordeste HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263206
+#EXTINF:-1,Globo NE Nordeste SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263205
+#EXTINF:-1,Globo News FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263126
+#EXTINF:-1,Globo News HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263125
+#EXTINF:-1,Globo News SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263124
+#EXTINF:-1,Globo PA TV Liberal Belém FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263210
+#EXTINF:-1,Globo PA TV Liberal Belém HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263209
+#EXTINF:-1,Globo PA TV Liberal Belém SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263208
+#EXTINF:-1,Globo PB TV Cabo Branco FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263213
+#EXTINF:-1,Globo PB TV Cabo Branco HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263212
+#EXTINF:-1,Globo PB TV Cabo Branco SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263211
+#EXTINF:-1,Globo PE Asa Branca FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263216
+#EXTINF:-1,Globo PE Asa Branca HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263215
+#EXTINF:-1,Globo PE Asa Branca SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263214
+#EXTINF:-1,Globo PR RPC Paranavai FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263219
+#EXTINF:-1,Globo PR RPC Paranavai HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263218
+#EXTINF:-1,Globo PR RPC Paranavai SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263217
+#EXTINF:-1,Globo PR RPC TV Curitiba FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263222
+#EXTINF:-1,Globo PR RPC TV Curitiba HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263221
+#EXTINF:-1,Globo PR RPC TV Curitiba SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263220
+#EXTINF:-1,Globo PR RPC TV Foz do Iguacu FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263225
+#EXTINF:-1,Globo PR RPC TV Foz do Iguacu HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263224
+#EXTINF:-1,Globo PR RPC TV Foz do Iguacu SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263223
+#EXTINF:-1,Globo PR RPC TV Maringa FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263228
+#EXTINF:-1,Globo PR RPC TV Maringa HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263227
+#EXTINF:-1,Globo PR RPC TV Maringa SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263226
+#EXTINF:-1,Globo PR RPC TV Ponta Grossa FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263231
+#EXTINF:-1,Globo PR RPC TV Ponta Grossa HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263230
+#EXTINF:-1,Globo PR RPC TV Ponta Grossa SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263229
+#EXTINF:-1,Globo RJ Capital FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263234
+#EXTINF:-1,Globo RJ Capital HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263233
+#EXTINF:-1,Globo RJ Capital SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263232
+#EXTINF:-1,Globo RJ Inter TV Alto Litoral FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263237
+#EXTINF:-1,Globo RJ Inter TV Alto Litoral HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263236
+#EXTINF:-1,Globo RJ Inter TV Alto Litoral SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263235
+#EXTINF:-1,Globo RJ Inter TV Serra Mar FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263240
+#EXTINF:-1,Globo RJ Inter TV Serra Mar HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263239
+#EXTINF:-1,Globo RJ Inter TV Serra Mar SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263238
+#EXTINF:-1,Globo RJ TV Rio Sul FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263243
+#EXTINF:-1,Globo RJ TV Rio Sul HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263242
+#EXTINF:-1,Globo RJ TV Rio Sul SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263241
+#EXTINF:-1,Globo RN Inter TV Cabugi FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263246
+#EXTINF:-1,Globo RN Inter TV Cabugi HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263245
+#EXTINF:-1,Globo RN Inter TV Cabugi SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263244
+#EXTINF:-1,Globo RO Rede Amazônica Porto Velho FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263249
+#EXTINF:-1,Globo RO Rede Amazônica Porto Velho HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263248
+#EXTINF:-1,Globo RO Rede Amazônica Porto Velho SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263247
+#EXTINF:-1,Globo RS RBS TV Caxias do Sul FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263252
+#EXTINF:-1,Globo RS RBS TV Caxias do Sul HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263251
+#EXTINF:-1,Globo RS RBS TV Caxias do Sul SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263250
+#EXTINF:-1,Globo RS RBS TV Pelotas FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263255
+#EXTINF:-1,Globo RS RBS TV Pelotas HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263254
+#EXTINF:-1,Globo RS RBS TV Pelotas SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263253
+#EXTINF:-1,Globo RS RBS TV Porto Alegre FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263258
+#EXTINF:-1,Globo RS RBS TV Porto Alegre HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263257
+#EXTINF:-1,Globo RS RBS TV Porto Alegre SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263256
+#EXTINF:-1,Globo SC NSC TV Blumenau FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263261
+#EXTINF:-1,Globo SC NSC TV Blumenau HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263260
+#EXTINF:-1,Globo SC NSC TV Blumenau SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263259
+#EXTINF:-1,Globo SC NSC TV Chapeco FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263264
+#EXTINF:-1,Globo SC NSC TV Chapeco HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263263
+#EXTINF:-1,Globo SC NSC TV Chapeco SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263262
+#EXTINF:-1,Globo SC NSC TV Florianópolis FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263267
+#EXTINF:-1,Globo SC NSC TV Florianópolis HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263266
+#EXTINF:-1,Globo SC NSC TV Florianópolis SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263265
+#EXTINF:-1,Globo SC NSC TV Joinville FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263270
+#EXTINF:-1,Globo SC NSC TV Joinville HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263269
+#EXTINF:-1,Globo SC NSC TV Joinville SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263268
+#EXTINF:-1,Globo SE Tv Sergipe FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263273
+#EXTINF:-1,Globo SE Tv Sergipe HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263272
+#EXTINF:-1,Globo SE Tv Sergipe SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263271
+#EXTINF:-1,Globo SP Capital FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263276
+#EXTINF:-1,Globo SP Capital HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263275
+#EXTINF:-1,Globo SP Capital SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263274
+#EXTINF:-1,Globo SP EPTV Campinas FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263279
+#EXTINF:-1,Globo SP EPTV Campinas HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263278
+#EXTINF:-1,Globo SP EPTV Campinas SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263277
+#EXTINF:-1,Globo SP EPTV Central S Carlos FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263282
+#EXTINF:-1,Globo SP EPTV Central S Carlos HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263281
+#EXTINF:-1,Globo SP EPTV Central S Carlos SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263280
+#EXTINF:-1,Globo SP EPTV Ribeirão Preto FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263285
+#EXTINF:-1,Globo SP EPTV Ribeirão Preto HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263284
+#EXTINF:-1,Globo SP EPTV Ribeirão Preto SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263283
+#EXTINF:-1,Globo SP TV Fronteira Presidente Prudente FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263288
+#EXTINF:-1,Globo SP TV Fronteira Presidente Prudente HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263287
+#EXTINF:-1,Globo SP TV Fronteira Presidente Prudente SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263286
+#EXTINF:-1,Globo SP TV TEM Bauru  HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263290
+#EXTINF:-1,Globo SP TV TEM Bauru  SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263289
+#EXTINF:-1,Globo SP TV TEM Bauru FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263291
+#EXTINF:-1,Globo SP TV Tem Itapetininga FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263294
+#EXTINF:-1,Globo SP TV Tem Itapetininga HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263293
+#EXTINF:-1,Globo SP TV Tem Itapetininga SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263292
+#EXTINF:-1,Globo SP TV Tem Sorocaba FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263297
+#EXTINF:-1,Globo SP TV Tem Sorocaba HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263296
+#EXTINF:-1,Globo SP TV Tem Sorocaba SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263295
+#EXTINF:-1,Globo SP TV Tem São José do Rio Preto FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263300
+#EXTINF:-1,Globo SP TV Tem São José do Rio Preto HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263299
+#EXTINF:-1,Globo SP TV Tem São José do Rio Preto SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263298
+#EXTINF:-1,Globo SP TV Tribuna Santos FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263303
+#EXTINF:-1,Globo SP TV Tribuna Santos HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263302
+#EXTINF:-1,Globo SP TV Tribuna Santos SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263301
+#EXTINF:-1,Globo SP TV Vanguarda São José dos Campos FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263306
+#EXTINF:-1,Globo SP TV Vanguarda São José dos Campos HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263305
+#EXTINF:-1,Globo SP TV Vanguarda São José dos Campos SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263304
+#EXTINF:-1,Globo SP TV Vanguarda Taubate FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263309
+#EXTINF:-1,Globo SP TV Vanguarda Taubate HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263308
+#EXTINF:-1,Globo SP TV Vanguarda Taubate SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263307
+#EXTINF:-1,Gloob FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263445
+#EXTINF:-1,Gloob HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263444
+#EXTINF:-1,Gloob SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263443
+#EXTINF:-1,Gloobinho FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263448
+#EXTINF:-1,Gloobinho HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263447
+#EXTINF:-1,Gloobinho SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263446
+#EXTINF:-1,GNT FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263391
+#EXTINF:-1,GNT HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263390
+#EXTINF:-1,GNT SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263389
+#EXTINF:-1,Guia de Canais
+http://axr.life:80/edimilsonj/tvsmartnew/393027
+#EXTINF:-1,H2 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262991
+#EXTINF:-1,H2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262990
+#EXTINF:-1,H2 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262989
+#EXTINF:-1,HARDCORE HD
+http://axr.life:80/edimilsonj/tvsmartnew/368836
+#EXTINF:-1,HBO Family FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263051
+#EXTINF:-1,HBO Family HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263050
+#EXTINF:-1,HBO Family SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263049
+#EXTINF:-1,HBO FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263045
+#EXTINF:-1,HBO HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263044
+#EXTINF:-1,HBO Max 01
+http://axr.life:80/edimilsonj/tvsmartnew/1263676
+#EXTINF:-1,HBO Max 02
+http://axr.life:80/edimilsonj/tvsmartnew/1263677
+#EXTINF:-1,HBO Max 03
+http://axr.life:80/edimilsonj/tvsmartnew/1263678
+#EXTINF:-1,HBO Max 04
+http://axr.life:80/edimilsonj/tvsmartnew/1263679
+#EXTINF:-1,HBO Mundi FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263054
+#EXTINF:-1,HBO Mundi HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263053
+#EXTINF:-1,HBO Mundi SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263052
+#EXTINF:-1,HBO POP FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263057
+#EXTINF:-1,HBO Pop HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263056
+#EXTINF:-1,HBO Pop SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263055
+#EXTINF:-1,HBO SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263043
+#EXTINF:-1,HBO Signature FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263060
+#EXTINF:-1,HBO Signature HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263059
+#EXTINF:-1,HBO Signature SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263058
+#EXTINF:-1,HBO Xtreme FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263063
+#EXTINF:-1,HBO Xtreme HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263062
+#EXTINF:-1,HBO Xtreme SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263061
+#EXTINF:-1,HBO+ FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263066
+#EXTINF:-1,HBO+ HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263065
+#EXTINF:-1,HBO+ SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263064
+#EXTINF:-1,HBO2 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263048
+#EXTINF:-1,HBO2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263047
+#EXTINF:-1,HBO2 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263046
+#EXTINF:-1,HGTV FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263394
+#EXTINF:-1,HGTV HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263393
+#EXTINF:-1,HGTV SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263392
+#EXTINF:-1,History Channel FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262988
+#EXTINF:-1,History Channel HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262987
+#EXTINF:-1,History Channel SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262986
+#EXTINF:-1,ID - Investigation Discovery FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262994
+#EXTINF:-1,ID - Investigation Discovery HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262993
+#EXTINF:-1,ID - Investigation Discovery SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262992
+#EXTINF:-1,INTERRACIAL HD
+http://axr.life:80/edimilsonj/tvsmartnew/368837
+#EXTINF:-1,Jovem Pan News FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263129
+#EXTINF:-1,Jovem Pan NEWS HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263128
+#EXTINF:-1,Jovem Pan News SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263127
+#EXTINF:-1,LATINA HF
+http://axr.life:80/edimilsonj/tvsmartnew/368838
+#EXTINF:-1,Lifetime FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263397
+#EXTINF:-1,Lifetime HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263396
+#EXTINF:-1,Lifetime SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263395
+#EXTINF:-1,Like! FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263069
+#EXTINF:-1,Like! HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263068
+#EXTINF:-1,Like! SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263067
+#EXTINF:-1,Markket FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263400
+#EXTINF:-1,Markket HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263399
+#EXTINF:-1,Markket SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263398
+#EXTINF:-1,Megapix FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263072
+#EXTINF:-1,Megapix HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263071
+#EXTINF:-1,Megapix SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263070
+#EXTINF:-1,MILF HD
+http://axr.life:80/edimilsonj/tvsmartnew/368839
+#EXTINF:-1,Modo Viagem FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263403
+#EXTINF:-1,Modo Viagem HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263402
+#EXTINF:-1,Modo Viagem SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263401
+#EXTINF:-1,MTV FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263354
+#EXTINF:-1,MTV HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263353
+#EXTINF:-1,MTV LIVE FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263357
+#EXTINF:-1,MTV LIVE HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263356
+#EXTINF:-1,MTV LIVE SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263355
+#EXTINF:-1,MTV s 00 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263360
+#EXTINF:-1,MTV s 00 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263359
+#EXTINF:-1,MTV s 00 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263358
+#EXTINF:-1,MTV SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263352
+#EXTINF:-1,Multishow FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263406
+#EXTINF:-1,Multishow HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263405
+#EXTINF:-1,Multishow SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263404
+#EXTINF:-1,Music Box Brazil FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263363
+#EXTINF:-1,Music Box Brazil HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263362
+#EXTINF:-1,Music Box Brazil SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263361
+#EXTINF:-1,MusicTop
+http://axr.life:80/edimilsonj/tvsmartnew/1263364
+#EXTINF:-1,Naruto 24h
+http://axr.life:80/edimilsonj/tvsmartnew/393035
+#EXTINF:-1,National Geographic FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1262997
+#EXTINF:-1,National Geographic HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262996
+#EXTINF:-1,National Geographic SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262995
+#EXTINF:-1,NBA League Pass 1 HD
+http://axr.life:80/edimilsonj/tvsmartnew/766210
+#EXTINF:-1,NBA League Pass 2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/766211
+#EXTINF:-1,NBA League Pass 3 HD
+http://axr.life:80/edimilsonj/tvsmartnew/766212
+#EXTINF:-1,NBA League Pass 4 HD
+http://axr.life:80/edimilsonj/tvsmartnew/766213
+#EXTINF:-1,NBA League Pass 5 HD
+http://axr.life:80/edimilsonj/tvsmartnew/766214
+#EXTINF:-1,NBA TV
+http://axr.life:80/edimilsonj/tvsmartnew/766209
+#EXTINF:-1,Nick Jr. FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263451
+#EXTINF:-1,Nick Jr. HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263450
+#EXTINF:-1,Nick Jr. SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263449
+#EXTINF:-1,Nickelodeon FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263454
+#EXTINF:-1,Nickelodeon HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263453
+#EXTINF:-1,Nickelodeon SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263452
+#EXTINF:-1,Nosso Futebol - 1 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263007
+#EXTINF:-1,Nosso Futebol - 2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263008
+#EXTINF:-1,Nosso Futebol - 3 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263009
+#EXTINF:-1,Nosso Futebol - 4 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263010
+#EXTINF:-1,OFF FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263409
+#EXTINF:-1,OFF HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263408
+#EXTINF:-1,OFF SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263407
+#EXTINF:-1,Paramount FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263075
+#EXTINF:-1,Paramount HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263074
+#EXTINF:-1,Paramount SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263073
+#EXTINF:-1,Paranaense 1
+http://axr.life:80/edimilsonj/tvsmartnew/1263011
+#EXTINF:-1,Paranaense 2
+http://axr.life:80/edimilsonj/tvsmartnew/1263012
+#EXTINF:-1,Paulistão 1
+http://axr.life:80/edimilsonj/tvsmartnew/1263013
+#EXTINF:-1,Paulistão 2
+http://axr.life:80/edimilsonj/tvsmartnew/1263014
+#EXTINF:-1,PLAYBOY FHD
+http://axr.life:80/edimilsonj/tvsmartnew/466403
+#EXTINF:-1,PLAYBOY HD
+http://axr.life:80/edimilsonj/tvsmartnew/466402
+#EXTINF:-1,PLAYBOY SD
+http://axr.life:80/edimilsonj/tvsmartnew/466399
+#EXTINF:-1,Pluto TV Anime
+http://axr.life:80/edimilsonj/tvsmartnew/393033
+#EXTINF:-1,PORNSTAR HD
+http://axr.life:80/edimilsonj/tvsmartnew/368840
+#EXTINF:-1,POV HD
+http://axr.life:80/edimilsonj/tvsmartnew/368841
+#EXTINF:-1,POWER COUPLE  HD
+http://axr.life:80/edimilsonj/tvsmartnew/771240
+#EXTINF:-1,Premiere 2 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263682
+#EXTINF:-1,Premiere 2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263681
+#EXTINF:-1,Premiere 2 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263680
+#EXTINF:-1,Premiere 3 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263685
+#EXTINF:-1,Premiere 3 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263684
+#EXTINF:-1,Premiere 3 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263683
+#EXTINF:-1,Premiere 4 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263688
+#EXTINF:-1,Premiere 4 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263687
+#EXTINF:-1,Premiere 4 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263686
+#EXTINF:-1,Premiere 5 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263691
+#EXTINF:-1,Premiere 5 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263690
+#EXTINF:-1,Premiere 5 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263689
+#EXTINF:-1,Premiere 6 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263694
+#EXTINF:-1,Premiere 6 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263693
+#EXTINF:-1,Premiere 6 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263692
+#EXTINF:-1,Premiere 7 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263697
+#EXTINF:-1,Premiere 7 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263696
+#EXTINF:-1,Premiere 7 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263695
+#EXTINF:-1,Premiere Clubes FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263700
+#EXTINF:-1,Premiere Clubes HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263699
+#EXTINF:-1,Premiere Clubes SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263698
+#EXTINF:-1,Prime Box Brazil FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263000
+#EXTINF:-1,Prime Box Brazil HD
+http://axr.life:80/edimilsonj/tvsmartnew/1262999
+#EXTINF:-1,Prime Box Brazil SD
+http://axr.life:80/edimilsonj/tvsmartnew/1262998
+#EXTINF:-1,Record BA - HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263310
+#EXTINF:-1,Record BA - Itapoan HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263311
+#EXTINF:-1,Record DF - HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263312
+#EXTINF:-1,Record ES - HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263313
+#EXTINF:-1,Record GO - HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263314
+#EXTINF:-1,Record MG - HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263315
+#EXTINF:-1,Record News FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263132
+#EXTINF:-1,Record News HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263131
+#EXTINF:-1,Record News SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263130
+#EXTINF:-1,Record PA - Belém HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263316
+#EXTINF:-1,Record PR Maringá HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263317
+#EXTINF:-1,Record RJ - Capital HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263318
+#EXTINF:-1,Record RJ - Interior HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263319
+#EXTINF:-1,Record RS - HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263320
+#EXTINF:-1,Record SP - Capital FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263323
+#EXTINF:-1,Record SP - Capital HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263322
+#EXTINF:-1,Record SP - Capital SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263321
+#EXTINF:-1,Rede Brasil SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263324
+#EXTINF:-1,Rede Família HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263325
+#EXTINF:-1,Rede Gospel
+http://axr.life:80/edimilsonj/tvsmartnew/1263135
+#EXTINF:-1,Rede Super
+http://axr.life:80/edimilsonj/tvsmartnew/1263136
+#EXTINF:-1,Rede Vida HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263137
+#EXTINF:-1,RedeTV! FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263328
+#EXTINF:-1,RedeTV! HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263327
+#EXTINF:-1,RedeTV! SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263326
+#EXTINF:-1,RUSSIAN
+http://axr.life:80/edimilsonj/tvsmartnew/368842
+#EXTINF:-1,SBT BA HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263329
+#EXTINF:-1,SBT ES HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263330
+#EXTINF:-1,SBT PR HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263331
+#EXTINF:-1,SBT RJ Capital HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263332
+#EXTINF:-1,SBT SP FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263335
+#EXTINF:-1,SBT SP HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263334
+#EXTINF:-1,SBT SP SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263333
+#EXTINF:-1,SEX HOT HD
+http://axr.life:80/edimilsonj/tvsmartnew/923098
+#EXTINF:-1,SEXTREME FHD
+http://axr.life:80/edimilsonj/tvsmartnew/466380
+#EXTINF:-1,SEXTREME HD
+http://axr.life:80/edimilsonj/tvsmartnew/40930
+#EXTINF:-1,SEXTREME HD
+http://axr.life:80/edimilsonj/tvsmartnew/923927
+#EXTINF:-1,SEXTREME SD
+http://axr.life:80/edimilsonj/tvsmartnew/466378
+#EXTINF:-1,SEXTREME SD
+http://axr.life:80/edimilsonj/tvsmartnew/923498
+#EXTINF:-1,SEXY HOT FHD
+http://axr.life:80/edimilsonj/tvsmartnew/466398
+#EXTINF:-1,SEXY HOT HD
+http://axr.life:80/edimilsonj/tvsmartnew/466382
+#EXTINF:-1,SEXY HOT SD
+http://axr.life:80/edimilsonj/tvsmartnew/466381
+#EXTINF:-1,SEXY HOT SD
+http://axr.life:80/edimilsonj/tvsmartnew/923499
+#EXTINF:-1,Smithsonian FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263003
+#EXTINF:-1,Smithsonian HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263002
+#EXTINF:-1,Smithsonian SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263001
+#EXTINF:-1,Space FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263078
+#EXTINF:-1,Space HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263077
+#EXTINF:-1,Space SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263076
+#EXTINF:-1,SporTV FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263703
+#EXTINF:-1,SporTV HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263702
+#EXTINF:-1,SporTV SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263701
+#EXTINF:-1,SporTV2 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263706
+#EXTINF:-1,SporTV2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263705
+#EXTINF:-1,SporTV2 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263704
+#EXTINF:-1,SporTV3 FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263709
+#EXTINF:-1,SporTV3 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263708
+#EXTINF:-1,SporTV3 SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263707
+#EXTINF:-1,Star Channel FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263081
+#EXTINF:-1,Star Channel HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263080
+#EXTINF:-1,Star Channel SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263079
+#EXTINF:-1,Star+ 1 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263710
+#EXTINF:-1,Star+ 2 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263711
+#EXTINF:-1,Star+ 3 HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263712
+#EXTINF:-1,Studio Universal FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263084
+#EXTINF:-1,Studio Universal HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263083
+#EXTINF:-1,Studio Universal SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263082
+#EXTINF:-1,SYFY FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263087
+#EXTINF:-1,SYFY HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263086
+#EXTINF:-1,SYFY SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263085
+#EXTINF:-1,TBS FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263412
+#EXTINF:-1,TBS HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263411
+#EXTINF:-1,TBS SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263410
+#EXTINF:-1,Telecine Action FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263090
+#EXTINF:-1,Telecine Action HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263089
+#EXTINF:-1,Telecine Action SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263088
+#EXTINF:-1,Telecine Cult FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263093
+#EXTINF:-1,Telecine Cult HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263092
+#EXTINF:-1,Telecine Cult SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263091
+#EXTINF:-1,Telecine Fun FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263096
+#EXTINF:-1,Telecine Fun HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263095
+#EXTINF:-1,Telecine Fun SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263094
+#EXTINF:-1,Telecine Pipoca FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263099
+#EXTINF:-1,Telecine Pipoca HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263098
+#EXTINF:-1,Telecine Pipoca SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263097
+#EXTINF:-1,Telecine Premium FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263102
+#EXTINF:-1,Telecine Premium HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263101
+#EXTINF:-1,Telecine Premium SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263100
+#EXTINF:-1,Telecine Touch FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263105
+#EXTINF:-1,Telecine Touch HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263104
+#EXTINF:-1,Telecine Touch SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263103
+#EXTINF:-1,Terra Viva
+http://axr.life:80/edimilsonj/tvsmartnew/1263336
+#EXTINF:-1,TLC FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263415
+#EXTINF:-1,TLC HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263414
+#EXTINF:-1,TLC SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263413
+#EXTINF:-1,TNT FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263108
+#EXTINF:-1,TNT HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263107
+#EXTINF:-1,TNT SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263106
+#EXTINF:-1,TNT Sports 01
+http://axr.life:80/edimilsonj/tvsmartnew/1263713
+#EXTINF:-1,TNT Sports 02
+http://axr.life:80/edimilsonj/tvsmartnew/1263714
+#EXTINF:-1,TNT Sports 03
+http://axr.life:80/edimilsonj/tvsmartnew/1263715
+#EXTINF:-1,TNT Séries FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263111
+#EXTINF:-1,TNT Séries HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263110
+#EXTINF:-1,TNT Séries SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263109
+#EXTINF:-1,Tooncast SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263455
+#EXTINF:-1,Trace Brazuca FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263367
+#EXTINF:-1,Trace Brazuca HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263366
+#EXTINF:-1,Trace Brazuca SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263365
+#EXTINF:-1,Travel Box Brazil FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263418
+#EXTINF:-1,Travel Box Brazil HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263417
+#EXTINF:-1,Travel Box Brazil SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263416
+#EXTINF:-1,Tru TV FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263421
+#EXTINF:-1,Tru TV HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263420
+#EXTINF:-1,Tru TV SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263419
+#EXTINF:-1,TV Aparecida HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263138
+#EXTINF:-1,TV Brasil FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263339
+#EXTINF:-1,TV Brasil HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263338
+#EXTINF:-1,TV Brasil SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263337
+#EXTINF:-1,TV Cristo Vive
+http://axr.life:80/edimilsonj/tvsmartnew/1263139
+#EXTINF:-1,TV Cultura FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263343
+#EXTINF:-1,TV Cultura HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263342
+#EXTINF:-1,TV Cultura SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263341
+#EXTINF:-1,TV Câmara dos Deputados
+http://axr.life:80/edimilsonj/tvsmartnew/1263340
+#EXTINF:-1,TV Escola SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263344
+#EXTINF:-1,TV Espaço Espírita
+http://axr.life:80/edimilsonj/tvsmartnew/1263140
+#EXTINF:-1,TV Evangelizar
+http://axr.life:80/edimilsonj/tvsmartnew/1263141
+#EXTINF:-1,TV Gazeta HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263345
+#EXTINF:-1,TV Justiça
+http://axr.life:80/edimilsonj/tvsmartnew/1263346
+#EXTINF:-1,TV Mundial
+http://axr.life:80/edimilsonj/tvsmartnew/1263142
+#EXTINF:-1,TV Novo Tempo HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263143
+#EXTINF:-1,TV Pai Eterno HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263144
+#EXTINF:-1,TV Rá Tim Bum FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263458
+#EXTINF:-1,TV Rá Tim Bum HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263457
+#EXTINF:-1,TV Rá Tim Bum SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263456
+#EXTINF:-1,TV Senado
+http://axr.life:80/edimilsonj/tvsmartnew/1263347
+#EXTINF:-1,Tv Universal
+http://axr.life:80/edimilsonj/tvsmartnew/1263145
+#EXTINF:-1,TVE Brasil SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263348
+#EXTINF:-1,UEFA | ELEVEN 1 HD PORTUGAL
+http://axr.life:80/edimilsonj/tvsmartnew/1002196
+#EXTINF:-1,UEFA | ELEVEN 2 HD PORTUGAL
+http://axr.life:80/edimilsonj/tvsmartnew/1002197
+#EXTINF:-1,UEFA | ELEVEN 3 HD PORTUGAL
+http://axr.life:80/edimilsonj/tvsmartnew/1002198
+#EXTINF:-1,UEFA | ELEVEN 4 HD PORTUGAL
+http://axr.life:80/edimilsonj/tvsmartnew/1002199
+#EXTINF:-1,UEFA | ELEVEN 5 HD PORTUGAL
+http://axr.life:80/edimilsonj/tvsmartnew/1002200
+#EXTINF:-1,UEFA | ELEVEN 6 HD PORTUGAL
+http://axr.life:80/edimilsonj/tvsmartnew/1002201
+#EXTINF:-1,UFC Fight Pass
+http://axr.life:80/edimilsonj/tvsmartnew/1263716
+#EXTINF:-1,Universal TV FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263114
+#EXTINF:-1,Universal TV HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263113
+#EXTINF:-1,Universal TV SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263112
+#EXTINF:-1,Viva FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263424
+#EXTINF:-1,Viva HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263423
+#EXTINF:-1,Viva SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263422
+#EXTINF:-1,Warner FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263117
+#EXTINF:-1,Warner HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263116
+#EXTINF:-1,Warner SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263115
+#EXTINF:-1,WooHoo FHD
+http://axr.life:80/edimilsonj/tvsmartnew/1263427
+#EXTINF:-1,Woohoo HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263426
+#EXTINF:-1,Woohoo SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263425
+#EXTINF:-1,ZooMoo HD
+http://axr.life:80/edimilsonj/tvsmartnew/1263460
+#EXTINF:-1,ZooMoo SD
+http://axr.life:80/edimilsonj/tvsmartnew/1263459
+#EXTINF:-1,Catarinense 1
+http://axr.life:80/edimilsonj/tvsmartnew/1263004
+#EXTINF:-1,Catarinense 2
+http://axr.life:80/edimilsonj/tvsmartnew/1263005
+#EXTINF:-1,CazéTV
+http://axr.life:80/edimilsonj/tvsmartnew/1263006
+#EXTINF:-1,BIGASS HD
+http://axr.life:80/edimilsonj/tvsmartnew/368829
+#EXTINF:-1,BIGDICK HD
+http://axr.life:80/edimilsonj/tvsmartnew/368830
+#EXTINF:-1,BLOWJOB HD
+http://axr.life:80/edimilsonj/tvsmartnew/368832
+#EXTINF:-1,Boas Novas
+http://axr.life:80/edimilsonj/tvsmartnew/1263133
+#EXTINF:-1, BIGTITS HD
+http://axr.life:80/edimilsonj/tvsmartnew/368831
+#EXTINF:-1,All Sports
+http://axr.life:80/edimilsonj/tvsmartnew/1263648
+#EXTINF:-1,Amazon Prime - 01
+http://axr.life:80/edimilsonj/tvsmartnew/1263649
+#EXTINF:-1,Amazon Prime - 02
+http://axr.life:80/edimilsonj/tvsmartnew/1263650
