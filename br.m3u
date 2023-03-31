@@ -103,27 +103,26 @@ https://live.embedflix.net/p2p/megapix/chunks.m3u8
 
 
 
-#Canais de Esporte
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTV Direto
-http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Fox Sports Premium
-http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Fox Sports Premium 2
-http://api.magiaiptv.com/live/800196/128093/m1_knOhhfNdF9kfR0_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv +
-http://api.magiaiptv.com/live/800196/128093/m3_UCWbpolpkgstvp_1080p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 2
-http://api.magiaiptv.com/live/800196/128093/m3_FZukotDQWYstv2_1080p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 4
-http://api.magiaiptv.com/live/800196/128093/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv 5
-http://api.magiaiptv.com/live/800196/128093/m3_L4QIjJorwjstv5_1080p
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",SportTv Premiere
-http://api.magiaiptv.com/live/800196/128093/p3_jUB9PDqLPI4ma3xxj
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",Canal Off
-http://api.magiaiptv.com/live/800196/128093/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
-#EXTINF:0 tvg-id="5" group-title="FECHADA | ESPORTES",RedBull
-http://api.magiaiptv.com/live/800196/128093/m3_EcfN7yNKhNP89Tp5Q_720p
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 10]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 10]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108358
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 9]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 9]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108357
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 8]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 8]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108356
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 7]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 7]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108355
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 6]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 6]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108354
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 5]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 5]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108353
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 4]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 4]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108352
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 3]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 3]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108351
+#EXTINF:-1 tvg-id="BIGBBR2" tvg-name="BBB 23 [CAM 2]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 2]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108350
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 1]" tvg-logo="https://www.fashionbubbles.com/wp-content/uploads/2022/11/patrocinadores-bbb-23-meta.jpg" group-title="Reality Show",BBB 23 [CAM 1]
+http://tv.com.vc:80/KsVpFvAAaF/qEpZPHBP2G/108349
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 10]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 10]
