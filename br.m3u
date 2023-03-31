@@ -126,68 +126,23 @@ http://api.magiaiptv.com/live/800196/128093/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
 http://api.magiaiptv.com/live/800196/128093/m3_EcfN7yNKhNP89Tp5Q_720p
 
 
-#Música
-#EXTINF:0 tvg-id="5" group-title="FECHADA | MUSICAS",K-Pop Tv Play
-http://api.magiaiptv.com/live/800196/128093/m2_9EOCjuxykuMtRyJM_720p
-
-
-#Variedades
-#EXTINF:0 tvg-id="2" group-title="FECHADA | VARIEDADES",Comedy Central
-https://live.embedflix.net/p2p/comedycentral/chunks.m3u8
-
-
-#Menos Assistidos
-#EXTINF:0 tvg-id="5" group-title="MENOS ASSISTIDOS",Tv Sul
-http://api.magiaiptv.com/live/800196/128093/m2_CJtRyehdaefTaVgSual_720p
-#EXTINF:0 tvg-id="5" group-title="MENOS ASSISTIDOS",Tv Brasil
-http://api.magiaiptv.com/live/800196/128093/m2_wELX3b2rIQxpSkv7lC9ORcdY_720p
-
-
-#Canais 24h
-#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Vikings 24h
-http://api.magiaiptv.com/live/800196/128093/p1_Vikings
-#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Game of Thrones 24h
-http://api.magiaiptv.com/live/800196/128093/p1_Game_of_Thrones
-#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Urso sem Curso 24h
-http://api.magiaiptv.com/live/800196/128093/p1_uscur_264
-#EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Séries Clássicas 24h
-http://168.205.87.198:8555/live/antony/1234/160.m3u8
-
-#EXTINF:-1 tvg-name="BBB 23 CAM 01 FHD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 01 FHD
-http://4f.rs:80/Paulo027/91814185/1519714.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 01 HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 01HD
-http://4f.rs:80/Paulo027/91814185/1519715.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 01 SD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 01 SD
-http://4f.rs:80/Paulo027/91814185/1519716.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 02 FHD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 02 FHD
-http://4f.rs:80/Paulo027/91814185/1519717.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 02 HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 02HD
-http://4f.rs:80/Paulo027/91814185/1519718.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 02 SD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 02 SD
-http://4f.rs:80/Paulo027/91814185/1519719.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 03 - QUARTO DESERTO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23" ,BBB 23 CAM 03 - QUARTO DESERTO HD
-http://4f.rs:80/Paulo027/91814185/1519720.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 04 - QUARTO FUNDO DO MAR HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 04 - QUARTO FUNDO DO MAR HD
-http://4f.rs:80/Paulo027/91814185/1519721.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 05 - SALA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 05 - SALA HD
-http://4f.rs:80/Paulo027/91814185/1519722.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 06 - COZINHA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 06 - COZINHA HD
-http://4f.rs:80/Paulo027/91814185/1519723.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 07 - PISCINA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 07 - PISCINA HD
-http://4f.rs:80/Paulo027/91814185/1519724.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 08 - LAVATÓRIO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 08 - LAVATÓRIO HD
-http://4f.rs:80/Paulo027/91814185/1519725.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 09 - ACADEMIA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 09 - ACADEMIA HD
-http://4f.rs:80/Paulo027/91814185/1519726.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 10 - VARANDA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 10 - VARANDA HD
-http://4f.rs:80/Paulo027/91814185/1519727.ts
-#EXTINF:-1 tvg-name="BBB 23 CAM 11 - CONFESSIONÁRIO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 11 - CONFESSIONÁRIO HD
-http://4f.rs:80/Paulo027/91814185/1519728.ts
-#EXTINF:-1 tvg-name="BBB 23 MOSAICO FHD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 MOSAICO FHD
-http://4f.rs:80/Paulo027/91814185/1519729.ts
-#EXTINF:-1 tvg-name="BBB 23 MOSAICO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 MOSAICO HD
-http://4f.rs:80/Paulo027/91814185/1519730.ts
-#EXTINF:-1 tvg-name="BBB 23 MOSAICO SD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 MOSAICO SD
-http://4f.rs:80/Paulo027/91814185/1519731.ts
-#EXTINF:-1 tvg-name="BBB CASA DE VIDRO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB CASA DE VÍDEO HD
-http://4f.rs:80/Paulo027/91814185/1526467.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 10]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 10]
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157874.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 9]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 9]
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157873.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 8]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 8]
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157872.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 7]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 7]
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157871.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 6]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 6]
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157870.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 5]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 5]
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157869.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 4]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 4]
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157868.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 3]" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 3]
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157867.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 2] ALT" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 2] ALT
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157866.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 23 [CAM 1] ALT" tvg-logo="https://lh3.googleusercontent.com/-TbxL0KOfUIE/X_eQkI3c9eI/AAAAAAAAIwM/7h8pUSaCT50QkqsaXwxi0Ckc4Tgg14LbACLcBGAsYHQ/bb21.png" group-title="CANAIS | REALITY SHOW",BBB 23 [CAM 1] ALT
+http://eye.syscdn.xyz:8080/live/alexia8181/alexia24052022/1157865.ts
