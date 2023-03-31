@@ -152,3 +152,42 @@ http://api.magiaiptv.com/live/800196/128093/p1_Game_of_Thrones
 http://api.magiaiptv.com/live/800196/128093/p1_uscur_264
 #EXTINF:0 tvg-id="5" group-title="CANAIS 24H",Séries Clássicas 24h
 http://168.205.87.198:8555/live/antony/1234/160.m3u8
+
+#EXTINF:-1 tvg-name="BBB 23 CAM 01 FHD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 01 FHD
+http://4f.rs:80/Paulo027/91814185/1519714.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 01 HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 01HD
+http://4f.rs:80/Paulo027/91814185/1519715.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 01 SD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 01 SD
+http://4f.rs:80/Paulo027/91814185/1519716.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 02 FHD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 02 FHD
+http://4f.rs:80/Paulo027/91814185/1519717.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 02 HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 02HD
+http://4f.rs:80/Paulo027/91814185/1519718.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 02 SD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 02 SD
+http://4f.rs:80/Paulo027/91814185/1519719.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 03 - QUARTO DESERTO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23" ,BBB 23 CAM 03 - QUARTO DESERTO HD
+http://4f.rs:80/Paulo027/91814185/1519720.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 04 - QUARTO FUNDO DO MAR HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 CAM 04 - QUARTO FUNDO DO MAR HD
+http://4f.rs:80/Paulo027/91814185/1519721.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 05 - SALA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 05 - SALA HD
+http://4f.rs:80/Paulo027/91814185/1519722.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 06 - COZINHA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 06 - COZINHA HD
+http://4f.rs:80/Paulo027/91814185/1519723.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 07 - PISCINA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 07 - PISCINA HD
+http://4f.rs:80/Paulo027/91814185/1519724.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 08 - LAVATÓRIO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 08 - LAVATÓRIO HD
+http://4f.rs:80/Paulo027/91814185/1519725.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 09 - ACADEMIA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 09 - ACADEMIA HD
+http://4f.rs:80/Paulo027/91814185/1519726.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 10 - VARANDA HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 10 - VARANDA HD
+http://4f.rs:80/Paulo027/91814185/1519727.ts
+#EXTINF:-1 tvg-name="BBB 23 CAM 11 - CONFESSIONÁRIO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23", BBB 23 CAM 11 - CONFESSIONÁRIO HD
+http://4f.rs:80/Paulo027/91814185/1519728.ts
+#EXTINF:-1 tvg-name="BBB 23 MOSAICO FHD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 MOSAICO FHD
+http://4f.rs:80/Paulo027/91814185/1519729.ts
+#EXTINF:-1 tvg-name="BBB 23 MOSAICO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 MOSAICO HD
+http://4f.rs:80/Paulo027/91814185/1519730.ts
+#EXTINF:-1 tvg-name="BBB 23 MOSAICO SD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB 23 MOSAICO SD
+http://4f.rs:80/Paulo027/91814185/1519731.ts
+#EXTINF:-1 tvg-name="BBB CASA DE VIDRO HD" tvg-logo="http://4f.rs:80/images/244bf3978b2c3a8545d09bad2e39adf4.png" group-title="CANAIS | BBB 23",BBB CASA DE VÍDEO HD
+http://4f.rs:80/Paulo027/91814185/1526467.ts
