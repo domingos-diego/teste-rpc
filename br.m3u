@@ -40,6 +40,8 @@ http://7go.xyz:8080/series/FabianaAuckland/fab763auk/300653.mp4
 
 
 #Canais Abertos
+#EXTINF:0 tvg-id="5" group-title="ABERTA",SBT 2
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36005
 #EXTINF:0 tvg-id="5" group-title="ABERTA",SBT
 http://168.205.87.198:8555/live/antony/1234/104.m3u8
 #EXTINF:0 tvg-id="5" group-title="ABERTA",Record 2
