@@ -40,6 +40,8 @@ http://7go.xyz:8080/series/FabianaAuckland/fab763auk/300653.mp4
 
 
 #Canais Abertos
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="http://tv.deflextelecom.com.br/imagensiptv/sbt.br.png" group-title="ABERTA",SBT SP SD
+http://conexaoonline.top:80/0646577379/5675861259/328
 #EXTINF:-1 tvg-id="5" group-title="ABERTA",SBT 3
 http://conexaoonline.top:80/0646577379/5675861259/276878
 #EXTINF:-1 tvg-id="5" group-title="ABERTA",SBT 2
