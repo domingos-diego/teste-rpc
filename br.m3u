@@ -287,9 +287,14 @@ http://splaytv.io:80/a8x0uzx810/crjqe61qpr/147532
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/163607
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo.png" group-title="Splay BBB",Varanda SD
 http://splaytv.io:80/a8x0uzx810/crjqe61qpr/191635
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/131e099c-9087-474c-a7bf-d10aa8b63b1c" parent-code= "" group-title="Lista de Canais", FURACAO PLAY
+
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV
 http://pfsv.io:80/CLEBER007/124356/116350
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/131e099c-9087-474c-a7bf-d10aa8b63b1c" parent-code= "" group-title="Lista de Canais", FURACAO P
-https://server100.online/furacaotv/tracks-v1a1/mono.m3u8?remote=189.10.150.128&token=b65dd3a3f59729bcd4b99327f9bbf1d239155db3-8e5ad7d603b6ecc241e160c5110be607-1681600435-1681593235
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Caze TV" tvg-logo="" group-title="all",Caze TV
-http://5ce.co:80/Ctina2718/Tina3619/99342
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV FHD [ALTER2]
+http://pfsv.io:80/CLEBER007/124356/132250
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV HD [ALTER2]
+http://pfsv.io:80/CLEBER007/124356/132251
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV SD [ALTER2]
+http://pfsv.io:80/CLEBER007/124356/132252
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV [ALTER]
+http://pfsv.io:80/CLEBER007/124356/49109
