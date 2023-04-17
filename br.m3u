@@ -1,16 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2PlKNBNFGPjiHXFOUG-kr7AYCObMm6lBP8g&usqp=CAU" group-title="TODOS CANAIS ", Globo RJ HD
-http://conexaoonline.top:80/live/6528001102/1822391230/179.ts
-#EXTINF:-1,PAN : RPC 4 HD
-#EXTVLCOPT:http-user-agent=R3dHard3.1XzY
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/545.ts
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="TWO BR GLOBO RPC TV HD" tvg-logo="https://i.imgur.com/Fjxrj3G.png" group-title="✅ TWO BR GLOBO - CAPITAIS",TWO BR GLOBO RPC TV HD
-http://newstvc.tech:8080/528186/844789/316796
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC FOZ DO IGUAÇU SD" tvg-logo="http://www.rochagalaxia.live/logos/rpc.png" group-title ="CANAIS | GLOBO",GLOBO RPC FOZ DO IGUAÇU SD
-http://conexaoonline.top:80/0646577379/5675861259/27415
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAVAI FHD " tvg-logo="http://www.rochagalaxia.live/logos/rpc.png" group-title=" CANAIS | GLOBO",GLOBO RPC PARANAVAI FHD  
-http://conexaoonline.top:80/0646577379/5675861259/27438
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAVAI FHD " tvg-logo="http://www.rochagalaxia.live/logos/rpc.png" group-title=" CANAIS | GLOBO",GLOBO RPC 1 
+http://pfsv.io:80/CLEBER007/124356/56133
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="http://www.rochagalaxia.live/logos/rpc.png" group-title=" CANAIS | GLOBO",GLOBO RPC PARANAVAI HD
 http://conexaoonline.top:80/0646577379/5675861259/27437
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO RPC PARANAVAI SD" tvg-logo="http://www.rochagalaxia.live/logos/rpc.png" group-title=" CANAIS | GLOBO",GLOBO RPC PARANAVAI SD
