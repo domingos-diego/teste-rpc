@@ -145,3 +145,14 @@ http://pfsv.io:80/CLEBER007/124356/49109
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Furacão HD" tvg-logo="http://imgs.uptvx.live:80/images/cf8e3a530d3733d2e96a8fe44b010cd7.png" group-title="Canais | Estaduais 2023",TV Furacão HD
 http://cdn.uptvx.live:80/Sandro6453/353830256453/48280
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrVIfziIvP4RA_y3_qspyRpcr_CU0ouj0-w&usqp=CAU" group-title="TODOS CANAIS", Premiere Futebol Clube HD
+http://7online.xyz:8080/live/lito84/091204nik/56943.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYexOt1xuycbqSZf2PNFQqL-5YPHOoj_cblg&usqp=CAU" group-title="TODOS CANAIS", Premiere 2 HD
+http://7online.xyz:8080/live/lito84/091204nik/18853.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCfAaXfe3xtZZB7BypzoELeIdk9t903jr7Q&usqp=CAU" group-title="TODOS CANAIS", Premiere 3 HD
+http://7online.xyz:8080/live/lito84/091204nik/18854.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE_bOzfemBtUVocBEHng4QpcmXrjpBfSbbyg&usqp=CAU" group-title="TODOS CANAIS", Premiere 4 HD
+http://7online.xyz:8080/live/lito84/091204nik/18855.ts
